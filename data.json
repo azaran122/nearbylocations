@@ -1,0 +1,3521 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1009 5e627b63",
+  "osm3s": {
+    "timestamp_osm_base": "2019-12-14T12:32:02Z",
+    "timestamp_areas_base": "2019-12-14T11:54:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1334442660,
+      "lat": 35.7651023,
+      "lon": 51.3545529,
+      "tags": {
+        "amenity": "cafe",
+        "name": "آمیستریس",
+        "name:en": "Amisteris"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1410146038,
+      "lat": 35.6945465,
+      "lon": 51.4141555,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1727303790,
+      "lat": 35.7487377,
+      "lon": 51.4125177,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه گاندی",
+        "name:en": "Gandhi Cafés"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1840233514,
+      "lat": 35.7134392,
+      "lon": 51.4067801,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "int_name": "Lamiz",
+        "name": "لمیز",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2108927637,
+      "lat": 35.7244223,
+      "lon": 51.4060915,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "int_name": "Okhra Cafe",
+        "name": "کافه اخرا",
+        "name:en": "la Vita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2351095442,
+      "lat": 35.7004971,
+      "lon": 51.4189636,
+      "tags": {
+        "addr:street": "ضرابی",
+        "amenity": "cafe",
+        "email": "romancecafe88@gmail.com",
+        "internet_access": "yes",
+        "name": "کافه رومنس",
+        "name:en": "Cafe Romance",
+        "phone": "02166749574"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3331504041,
+      "lat": 35.6753873,
+      "lon": 51.3831216,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3777178307,
+      "lat": 35.7100189,
+      "lon": 51.3998913,
+      "tags": {
+        "amenity": "cafe",
+        "name": "پشت‌بوم",
+        "name:en": "Poshte Boom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3924048558,
+      "lat": 35.7424635,
+      "lon": 51.5014464,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه سام",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3939540461,
+      "lat": 35.7349651,
+      "lon": 51.503005,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه روژه"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4077439329,
+      "lat": 35.7158202,
+      "lon": 51.4204378,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "پلاک ۸",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4104795991,
+      "lat": 35.727655,
+      "lon": 51.4319989,
+      "tags": {
+        "addr:street": "علی اکبری",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه پنیر"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4145959507,
+      "lat": 35.7646501,
+      "lon": 51.3410796,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه لیو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4146738299,
+      "lat": 35.7540372,
+      "lon": 51.3643269,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4172642894,
+      "lat": 35.7207352,
+      "lon": 51.4271442,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "pizza;pasta;burger",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4188778042,
+      "lat": 35.6977507,
+      "lon": 51.407202,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "35",
+        "addr:street": "رازی",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "cuisine_1": "ice cream",
+        "cuisine_2": "cafe",
+        "cuisine_3": "regional",
+        "internet_access": "yes",
+        "name": "کافه سوفیا",
+        "name:en": "Sophia Cafe",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4189540089,
+      "lat": 35.697972,
+      "lon": 51.407168,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:street": "Razi",
+        "amenity": "cafe",
+        "cuisine": "cake;french;tea;coffee_shop;persian;diner",
+        "internet_access": "wlan",
+        "name": "کافه سوفیا",
+        "name:en": "Sophia Cafe",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+982166730696",
+        "website": "https://goo.gl/8iMDrD"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4197312069,
+      "lat": 35.7310091,
+      "lon": 51.3949144,
+      "tags": {
+        "addr:street": "فجر ۱",
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4257789066,
+      "lat": 35.7569427,
+      "lon": 51.3436978,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه ایوانک",
+        "name:en": "Eivanak Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4286132189,
+      "lat": 35.719756,
+      "lon": 51.4082645,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Doctor Coffee",
+        "phone": "+989354195380"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4298643092,
+      "lat": 35.7029526,
+      "lon": 51.4057328,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Godot cofe",
+        "name:en": "Godot coffee",
+        "name:fa": "کافی شاپ گودوت"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305413692,
+      "lat": 35.7499734,
+      "lon": 51.3981713,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه لند - شعبه دو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317122192,
+      "lat": 35.7630755,
+      "lon": 51.3378198,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه گلدون",
+        "name:en": "Goldun Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4339505193,
+      "lat": 35.7036852,
+      "lon": 51.4019775,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Ando"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4347705990,
+      "lat": 35.7013369,
+      "lon": 51.3997878,
+      "tags": {
+        "addr:street": "انقلاب اسلامی",
+        "amenity": "cafe",
+        "name": "کافه قنادی ورتا",
+        "name:en": "Vorta Café",
+        "name:eo": "Vorta kafejo",
+        "opening_hours": "Sa-Th 08:00-21:00; Fr 15:00-21:00",
+        "phone": "+982166475301"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4352205689,
+      "lat": 35.727213,
+      "lon": 51.3775998,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه دی"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4352748197,
+      "lat": 35.7275678,
+      "lon": 51.4078423,
+      "tags": {
+        "addr:street": "سید جمال الدین اسدآبادی",
+        "amenity": "cafe",
+        "name": "کافه ریو",
+        "name:en": "Riv Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4353445389,
+      "lat": 35.631525,
+      "lon": 51.41822,
+      "tags": {
+        "amenity": "cafe",
+        "name": "سفره خانه سنتی نار و نی",
+        "name:en": "Nar o ney cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4358708890,
+      "lat": 35.733759,
+      "lon": 51.4451555,
+      "tags": {
+        "addr:street": "شریعتی",
+        "amenity": "cafe",
+        "cuisine": "persian",
+        "internet_access": "wlan",
+        "name": "parvaneh",
+        "phone": "02188519553"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4363667391,
+      "lat": 35.7434636,
+      "lon": 51.296156,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه خانه پروین"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4375716989,
+      "lat": 35.7253178,
+      "lon": 51.4110978,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "ice_cream;tea;cake;persian;local;coffee_shop;pasta;noodles",
+        "internet_access": "wlan",
+        "name": "کافه آنسو",
+        "name:en": "Ansoo Cafe",
+        "opening_hours": "Mo-Su 08:30-23:30",
+        "phone": "+982188552090",
+        "website": "https://ansoocafe.com/en/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4384798691,
+      "lat": 35.7068403,
+      "lon": 51.414458,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Daris Hookhah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4393737489,
+      "lat": 35.7240571,
+      "lon": 51.4487135,
+      "tags": {
+        "addr:street": "پلیس",
+        "amenity": "cafe",
+        "cuisine": "barbecue;burger;cake;chicken;coffee_shop;crepe;diner;beef_bowl;breakfast;ice_cream;italian;italian_pizza;international;kebab;noodles;mexican;pasta;pancake;persian;pizza;sandwich;sausage;steak_house;vegetarian",
+        "name": "کافه کمی قرمز",
+        "name:en": "A LLITLE BIT OF RED",
+        "opening_hours": "Mo-Su 08:00-23:55",
+        "phone": "09361332030",
+        "website": "https://instagram.com/a_little_bit_of_red"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396120192,
+      "lat": 35.6904956,
+      "lon": 51.4586044,
+      "tags": {
+        "amenity": "cafe",
+        "name": "توت طلایی",
+        "name:en": "Golden Berry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402455291,
+      "lat": 35.7252511,
+      "lon": 51.3355019,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "اشرفی اصفهانی",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه باران",
+        "name:en": "Baran Cafe",
+        "opening_hours": "Sa-Th 10:00-23:00; Fr 15:00-23:00",
+        "phone": "+982144241949",
+        "website": "http://www.barancafe.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4419263190,
+      "lat": 35.7530841,
+      "lon": 51.3332525,
+      "tags": {
+        "addr:city": "Tehran",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه وود",
+        "name:en": "Wood Cafe",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "09358886883"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4420694289,
+      "lat": 35.6947164,
+      "lon": 51.4168176,
+      "tags": {
+        "addr:street": "جمهوری اسلامی",
+        "amenity": "cafe",
+        "name": "کافه نادری",
+        "name:en": "Naderi Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4423102291,
+      "lat": 35.7151847,
+      "lon": 51.4196827,
+      "tags": {
+        "addr:housenumber": "134",
+        "addr:street": "کریم خان زند",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;burger;sandwich",
+        "internet_access": "wlan",
+        "name": "کافه نزدیک",
+        "name:en": "Cafe Nazdik",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "88490726",
+        "website": "http://www.nazdikcafes.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4423203389,
+      "lat": 35.7130877,
+      "lon": 51.4147756,
+      "tags": {
+        "addr:housenumber": "257",
+        "addr:street": "نجات‌اللهی",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه اسپریس",
+        "name:en": "Cafe Espriss",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "02188914377",
+        "website": "http://www.espriss.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4423901689,
+      "lat": 35.7723772,
+      "lon": 51.3606326,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "مهدی عباسی اناری",
+        "amenity": "cafe",
+        "cuisine": "italian;coffee_shop",
+        "internet_access": "wlan",
+        "name": "کافه کوکو",
+        "name:en": "Coco Café",
+        "opening_hours": "Sa-Th 09:30-23:00; Fr 10:00-23:00",
+        "phone": "+98 21 88385277"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4424055322,
+      "lat": 35.7308322,
+      "lon": 51.4330628,
+      "tags": {
+        "amenity": "cafe",
+        "name": "رستوران مراکشی مغرب"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4441173195,
+      "lat": 35.7035461,
+      "lon": 51.3904709,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه نال",
+        "name:en": "Null Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4441686896,
+      "lat": 35.76376,
+      "lon": 51.336913,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه قانون",
+        "name:en": "Qanun Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4441698589,
+      "lat": 35.767352,
+      "lon": 51.3369294,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4449051198,
+      "lat": 35.7019458,
+      "lon": 51.398066,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "قدس",
+        "amenity": "cafe",
+        "name": "کافه نزدیک",
+        "name:en": "Nazdik Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4464641693,
+      "lat": 35.7399338,
+      "lon": 51.2961347,
+      "tags": {
+        "amenity": "cafe",
+        "name": "چای‌خانه‌ی کیهان",
+        "opening_hours": "Mo-Su 10:00-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4471395276,
+      "lat": 35.7083189,
+      "lon": 51.4201259,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4471395312,
+      "lat": 35.7095662,
+      "lon": 51.4218974,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Café Gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4481165197,
+      "lat": 35.6568287,
+      "lon": 51.3532458,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4481653897,
+      "lat": 35.7290991,
+      "lon": 51.4127402,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه مژگان",
+        "name:en": "cafe mojgan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4497064532,
+      "lat": 35.7323253,
+      "lon": 51.4851819,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "کافه ترافیک",
+        "name:en": "Traffic Cafe",
+        "opening_hours": "Sa-Th 15:30-22:30 & Fri 15:30-21",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.instagram.com/traffic.cafe/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4503244289,
+      "lat": 35.7712208,
+      "lon": 51.3561714,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "امیر شکلات",
+        "name:en": "Amir Chocolate",
+        "opening_hours": "Mo-Su 08:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4504744445,
+      "lat": 35.7239057,
+      "lon": 51.4353066,
+      "tags": {
+        "amenity": "cafe",
+        "name": "تقاطع",
+        "name:en": "Taghaato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4504744446,
+      "lat": 35.7238264,
+      "lon": 51.4356648,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511003418,
+      "lat": 35.7390598,
+      "lon": 51.4107734,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511036296,
+      "lat": 35.7351287,
+      "lon": 51.4107536,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511036297,
+      "lat": 35.735749,
+      "lon": 51.4118725,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511517048,
+      "lat": 35.726102,
+      "lon": 51.4448186,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4518012989,
+      "lat": 35.704907,
+      "lon": 51.405966,
+      "tags": {
+        "addr:street": "Valiasr St",
+        "amenity": "cafe",
+        "name": "لیبرا",
+        "name:en": "lybra",
+        "phone": "+982166480710"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4520197989,
+      "lat": 35.7233317,
+      "lon": 51.4293012,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:housenumber": "12",
+        "addr:street": "مهرداد",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه پارادیزو",
+        "name:en": "Paradiso Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4536683893,
+      "lat": 35.7028119,
+      "lon": 51.3923344,
+      "tags": {
+        "addr:street": "ادوارد براون",
+        "amenity": "cafe",
+        "name": "کافه کتاب",
+        "name:en": "Ketab Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4542947489,
+      "lat": 35.7108655,
+      "lon": 51.4058858,
+      "tags": {
+        "addr:street": "برادران مظفر",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "آن",
+        "name:en": "Ann"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4545875691,
+      "lat": 35.7660331,
+      "lon": 51.3547368,
+      "tags": {
+        "addr:street": "درختی",
+        "amenity": "cafe",
+        "name": "کافه ویونا",
+        "name:en": "Viona Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554366355,
+      "lat": 35.7135482,
+      "lon": 51.3977334,
+      "tags": {
+        "addr:housenumber": "36",
+        "addr:street": "سازمان آب",
+        "amenity": "cafe",
+        "name": "کافه مبلمو",
+        "name:en": "Moblemo Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554366716,
+      "lat": 35.7075253,
+      "lon": 51.3903585,
+      "tags": {
+        "addr:housenumber": "1555",
+        "addr:street": "کارگر شمالی",
+        "amenity": "cafe",
+        "name": "کافه ایما",
+        "name:en": "ima cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554368309,
+      "lat": 35.7199729,
+      "lon": 51.4051656,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه لمیز",
+        "name:en": "Cafe Lamiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554381719,
+      "lat": 35.7073595,
+      "lon": 51.3919165,
+      "tags": {
+        "addr:street": "بلوار کشاورز",
+        "amenity": "cafe",
+        "name": "آوانسن",
+        "phone": "+982188982084"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554382311,
+      "lat": 35.7203583,
+      "lon": 51.4051455,
+      "tags": {
+        "addr:street": "بیستون",
+        "amenity": "cafe",
+        "name": "کافه کو",
+        "name:en": "Cafe cave"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557844889,
+      "lat": 35.7903961,
+      "lon": 51.353259,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه عصر حجر"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4573967891,
+      "lat": 35.7248642,
+      "lon": 51.4049118,
+      "tags": {
+        "addr:street": "بیستون",
+        "amenity": "cafe",
+        "name": "کافه پرک",
+        "name:en": "Perk Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4573973189,
+      "lat": 35.7294955,
+      "lon": 51.3992822,
+      "tags": {
+        "addr:street": "محمدعلی جهان آرا",
+        "amenity": "cafe",
+        "name": "کافه تو کافه",
+        "name:en": "Cafe to cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4573975689,
+      "lat": 35.726769,
+      "lon": 51.4049203,
+      "tags": {
+        "addr:street": "بیستون",
+        "amenity": "cafe",
+        "name": "کتفه",
+        "name:en": "cafe kooche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589503573,
+      "lat": 35.72934,
+      "lon": 51.40694,
+      "tags": {
+        "amenity": "cafe",
+        "name": "توت طلایى"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4591875290,
+      "lat": 35.7102211,
+      "lon": 51.445898,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه عربی ملک سبا",
+        "name:en": "Malek saba Arabian cafe",
+        "opening_hours": "Mo-Su 12:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4634044891,
+      "lat": 35.7055329,
+      "lon": 51.4256307,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه بکلاه"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4637030195,
+      "lat": 35.7396271,
+      "lon": 51.4027058,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه النا",
+        "name:en": "Elena",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646607392,
+      "lat": 35.7112669,
+      "lon": 51.3901113,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه پروژه"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4647512822,
+      "lat": 35.693893,
+      "lon": 51.4142102,
+      "tags": {
+        "addr:housenumber": "172",
+        "addr:street": "سی تیر",
+        "amenity": "cafe",
+        "description": "قدیم‌ها پاتوق فروغ بوده تاسیس ۱۳۱۰ Since 1931",
+        "name": "کافه رستوران گل رضائیه",
+        "name:en": "Café Restaurant Gol-e Rezaia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4664129995,
+      "lat": 35.7286651,
+      "lon": 51.420927,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:housenumber": "No. 49",
+        "addr:street": "سرافراز ۱۱",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Cafe Viuna Daaryaye Nour",
+        "name:fa": "کافه ویونا دریاى نور",
+        "opening_hours": "Sat-Thu: 7.30h-22.30h, Friday: 11.00h-22.30h",
+        "outdoor_seating": "no",
+        "phone": "+98 21 8817 1977",
+        "smoking": "no",
+        "website": "https://www.instagram.com/cafeviunadaryaayenour/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4684659094,
+      "lat": 35.7056766,
+      "lon": 51.4227206,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه ریت"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4684663489,
+      "lat": 35.7056072,
+      "lon": 51.4257696,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کاقه سیبیل"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4696258189,
+      "lat": 35.7303157,
+      "lon": 51.3766572,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713069892,
+      "lat": 35.7003512,
+      "lon": 51.3894758,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه شیشا",
+        "name:en": "Shisha Cafe",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713978495,
+      "lat": 35.7366722,
+      "lon": 51.5995119,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه خانه یاسین"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4714001989,
+      "lat": 35.7394698,
+      "lon": 51.5974342,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه خانه حبیب"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4715094197,
+      "lat": 35.7002992,
+      "lon": 51.4037643,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه قجری",
+        "name:en": "Qajari Coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4715979491,
+      "lat": 35.7278757,
+      "lon": 51.3186504,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ابراهیم برلیان"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720207490,
+      "lat": 35.6741769,
+      "lon": 51.4592197,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "021",
+        "addr:street": "قرائی گرکانی",
+        "amenity": "cafe",
+        "cuisine": "asian",
+        "email": "hamedbazargan1986@gmail.com",
+        "internet_access": "wlan",
+        "name": "گرکانی",
+        "name:en": "Gorgani",
+        "opening_hours": "24/7",
+        "phone": "+989356149595"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4721895718,
+      "lat": 35.7318273,
+      "lon": 51.4115962,
+      "tags": {
+        "amenity": "cafe",
+        "name": "balcony cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724563789,
+      "lat": 35.7444737,
+      "lon": 51.5436312,
+      "tags": {
+        "addr:street": "بلوار شاهد",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "پوریای ولی",
+        "name:en": "pourya vali",
+        "operator": "reza zarei"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4736287822,
+      "lat": 35.6999608,
+      "lon": 51.4100841,
+      "tags": {
+        "addr:street": "Khark st.",
+        "amenity": "cafe",
+        "cuisine": "italian;italian_pizza;pasta",
+        "internet_access": "wlan",
+        "name": "تنور خانگی",
+        "name:en": "Tanoor Khanegi",
+        "phone": "09122978375",
+        "website": "http://tanoorkhanegi.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4740088624,
+      "lat": 35.7035178,
+      "lon": 51.4158535,
+      "tags": {
+        "addr:street": "نجات‌اللهی",
+        "amenity": "cafe",
+        "cuisine": "cake;breakfast",
+        "internet_access": "wlan",
+        "name": "کافه دایموند",
+        "name:en": "Diamond Café",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "02188890196"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4740097821,
+      "lat": 35.6971247,
+      "lon": 51.4112496,
+      "tags": {
+        "addr:street": "نوفل لوشاتو",
+        "amenity": "cafe",
+        "name": "کافه رستوران ریرا",
+        "name:en": "Reera Café and Restaurant",
+        "phone": "02166707646"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4740213900,
+      "lat": 35.7765273,
+      "lon": 51.3622327,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:country": "IR",
+        "addr:housenumber": "10",
+        "addr:street": "استاد مطهری",
+        "amenity": "cafe",
+        "name": "بل کافه",
+        "name:en": "Bell Cafe",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4741776521,
+      "lat": 35.7002871,
+      "lon": 51.4045691,
+      "tags": {
+        "addr:city": "Tehran",
+        "amenity": "cafe",
+        "name": "کافه گرامافون",
+        "name:en": "Gramophone Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4763884524,
+      "lat": 35.7327485,
+      "lon": 51.4957592,
+      "tags": {
+        "amenity": "cafe",
+        "name": "لوشا",
+        "name:en": "Losha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4778118298,
+      "lat": 35.7023049,
+      "lon": 51.4043161,
+      "tags": {
+        "addr:street": "برادران مظفر",
+        "amenity": "cafe",
+        "cuisine": "tea;coffee_shop",
+        "name": "کافه آندورا",
+        "name:en": "Andorra coffee",
+        "opening_hours": "Sa-Th 10:00-23:00; Fr 16:30-23:30",
+        "phone": "+98 21 66 950 935",
+        "website": "https://www.instagram.com/cafeandorra/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4790123814,
+      "lat": 35.7322155,
+      "lon": 51.5196724,
+      "tags": {
+        "addr:city": "tehran",
+        "addr:housenumber": "208",
+        "addr:street": "بزرگراه رسالت",
+        "amenity": "cafe",
+        "branch": "شرق",
+        "internet_access": "wired",
+        "name": "آقای قهوه",
+        "outdoor_seating": "no",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4791678322,
+      "lat": 35.6772307,
+      "lon": 51.2326628,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4796427721,
+      "lat": 35.7020591,
+      "lon": 51.3986799,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "اسکو",
+        "amenity": "cafe",
+        "name": "کافه هنر",
+        "name:en": "Honar Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804684721,
+      "lat": 35.7199008,
+      "lon": 51.4183498,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "میرزای شیرازی ۱۳",
+        "amenity": "cafe",
+        "name": "گالری شیرین",
+        "name:en": "Shirin Art Gallery",
+        "tourism": "gallery",
+        "website": "http://www.shiringallery.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4806186421,
+      "lat": 35.6720256,
+      "lon": 51.4720337,
+      "tags": {
+        "addr:street": "مهدی زندی",
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4816001521,
+      "lat": 35.7198187,
+      "lon": 51.506709,
+      "tags": {
+        "addr:street": "خیابان دماوند",
+        "amenity": "cafe",
+        "name": "دیزی سرای داریوش"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4819854521,
+      "lat": 35.7412546,
+      "lon": 51.5493843,
+      "tags": {
+        "addr:street": "صد و نود و ششم شرقی",
+        "amenity": "cafe",
+        "name": "قهوه خانه آفاق"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4820092621,
+      "lat": 35.7051028,
+      "lon": 51.3805635,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه سنتی ایمان",
+        "name:en": "Iman cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824381923,
+      "lat": 35.701694,
+      "lon": 51.405384,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "ولی عصر",
+        "amenity": "cafe",
+        "name": "کافه لمیز",
+        "name:en": "cafe lamiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4825871824,
+      "lat": 35.6886171,
+      "lon": 51.4191734,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "کوشک مصری",
+        "amenity": "cafe",
+        "contact:email": "cafe.malek2020@gmail.com",
+        "contact:phone": "+982166734393",
+        "cuisine": "cake;sandwich;breakfast;grill;ice_cream;tea;cake;coffee_shop;persian;asian;pasta;italian;chicken;vegetarian",
+        "internet_access": "wlan",
+        "name": "کافه ملک",
+        "name:en": "Malek Cafe",
+        "opening_hours": "Mo-Su 10:00-10:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4826740023,
+      "lat": 35.7362601,
+      "lon": 51.3398366,
+      "tags": {
+        "addr:street": "بلوار مرزداران",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;persian",
+        "name": "کافه بیشه",
+        "name:en": "Bishe cofe",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "021 4429 4204"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828588727,
+      "lat": 35.702539,
+      "lon": 51.4258843,
+      "tags": {
+        "addr:street": "مفتح شمالی",
+        "amenity": "cafe",
+        "name": "کافه اوریانت",
+        "name:en": "Orient Café and Pastry Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4831271322,
+      "lat": 35.7336156,
+      "lon": 51.4668422,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه ژورژ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834152621,
+      "lat": 35.7413257,
+      "lon": 51.5910893,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه سنتی"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834227322,
+      "lat": 35.7058019,
+      "lon": 51.4258192,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه گوشه",
+        "name:en": "Gooshe cafe",
+        "name:nl": "Gooshe cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834254121,
+      "lat": 35.7056112,
+      "lon": 51.4235285,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه سبیل",
+        "name:en": "Sebil Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834254122,
+      "lat": 35.7055513,
+      "lon": 51.4226403,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه زهیر"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834254321,
+      "lat": 35.7056167,
+      "lon": 51.4232706,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه تبلیغات",
+        "name:en": "Tablighat Cafe",
+        "opening_hours": "Mo-Su 09:00-23:30",
+        "website": "http://www.cafetablighat.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834254322,
+      "lat": 35.7055505,
+      "lon": 51.4227805,
+      "tags": {
+        "addr:street": "سمیه",
+        "amenity": "cafe",
+        "contact:phone": "+982186070025",
+        "internet_access": "wlan",
+        "name": "کافه راتا",
+        "name:en": "Rata Cafe'",
+        "opening_hours": "Mo-Su 10:00-23:55"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4837881323,
+      "lat": 35.6734992,
+      "lon": 51.462839,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه عرفان"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4846019321,
+      "lat": 35.7413994,
+      "lon": 51.5903093,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه سنتی ۲"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4857327321,
+      "lat": 35.7150688,
+      "lon": 51.4218995,
+      "tags": {
+        "addr:street": "خردمند جنوبی",
+        "amenity": "cafe",
+        "name": "کافه ویونا",
+        "name:en": "Cafe Viuna",
+        "website": "http://www.cafe-viuna.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867498522,
+      "lat": 35.7525031,
+      "lon": 51.3576381,
+      "tags": {
+        "amenity": "cafe",
+        "name": "سام کافه شهرک غرب",
+        "name:en": "Sam Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4892294425,
+      "lat": 35.6823934,
+      "lon": 51.4281676,
+      "tags": {
+        "addr:housenumber": "283",
+        "addr:street": "پامنار",
+        "amenity": "cafe",
+        "email": "m.mahmoodi.barmesi@gmail.com",
+        "internet_access": "wlan",
+        "name": "کافه پالت برمیس",
+        "name:en": "Barmis Pallet Café",
+        "operator": "Mehrdad Mahmoodi Barmesi",
+        "phone": "+989121548928",
+        "website": "https://instagram.com/barmis.pallet.cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4894633821,
+      "lat": 35.7025838,
+      "lon": 51.3980252,
+      "tags": {
+        "addr:city": "Tehran",
+        "amenity": "cafe",
+        "name": "کافه نفس",
+        "name:en": "Nafas Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4909183121,
+      "lat": 35.738737,
+      "lon": 51.3135418,
+      "tags": {
+        "addr:street": "بزرگراه ستاری",
+        "amenity": "cafe",
+        "name": "کافه لایچى",
+        "name:en": "Lychee cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4924789514,
+      "lat": 35.7164303,
+      "lon": 51.42359,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe Chaplin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4939634081,
+      "lat": 35.7122682,
+      "lon": 51.4161934,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه تهرون",
+        "name:en": "Cafe Tehroon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4940409822,
+      "lat": 35.7080726,
+      "lon": 51.3972672,
+      "tags": {
+        "addr:street": "وصال شیرازی",
+        "amenity": "cafe",
+        "name": "کافه نقش وصال",
+        "name:en": "Naqsh Vesal Cafe",
+        "opening_hours": "Sa-Th 08:30-23:00; Fr 15:00-23:00",
+        "phone": "+982188963578"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4957808321,
+      "lat": 35.7148235,
+      "lon": 51.3419538,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4983216713,
+      "lat": 35.75519,
+      "lon": 51.23633,
+      "tags": {
+        "addr:street": "سروستان نهم",
+        "amenity": "cafe",
+        "name": "کافه سنتی کاج",
+        "name:en": "Kaj Cafe",
+        "opening_hours": "10:30-23:59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4987945291,
+      "lat": 35.7040309,
+      "lon": 51.4050754,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cyber Club",
+        "name:fa": "سایبر کلاب"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5034646323,
+      "lat": 35.7119198,
+      "lon": 51.4216268,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "نوشهر",
+        "amenity": "cafe",
+        "internet_access:type": "Wifi",
+        "name": "کافه ژس",
+        "name:en": "Jes cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5052010359,
+      "lat": 35.7679608,
+      "lon": 51.278293,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه نیلا",
+        "name:en": "Nila Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5087935739,
+      "lat": 35.7392978,
+      "lon": 51.4957005,
+      "tags": {
+        "addr:street": "فرجام",
+        "amenity": "cafe",
+        "name": "کافه ژوان"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5108031322,
+      "lat": 35.7187775,
+      "lon": 51.4284751,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "شاهرخ",
+        "amenity": "cafe",
+        "name": "کافه نور",
+        "name:en": "Noor Cafe",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "021 88313344"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119218048,
+      "lat": 35.6885035,
+      "lon": 51.4876589,
+      "tags": {
+        "addr:street": "مقداد",
+        "amenity": "cafe",
+        "name": "بیا و ببین",
+        "name:en": "Bia o bebin",
+        "opening_hours": "24/7",
+        "phone": "+989024948989",
+        "website": "https://t.me/joinchat/AAAAAEBXOsY2RucuXpL41A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5132347723,
+      "lat": 35.7194625,
+      "lon": 51.4899615,
+      "tags": {
+        "amenity": "cafe",
+        "name": "رستوران شفیعی"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5142291726,
+      "lat": 35.7790179,
+      "lon": 51.3360993,
+      "tags": {
+        "addr:street": "عزیزاله زارع (نفت)",
+        "amenity": "cafe",
+        "name": "شیرینی لادن",
+        "name:en": "Ladan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5155648421,
+      "lat": 35.6761164,
+      "lon": 51.4212731,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه خونه حاج علی درویش",
+        "name:en": "Haj Ali Darvish Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5179429421,
+      "lat": 35.7291352,
+      "lon": 51.4552805,
+      "tags": {
+        "addr:street": "یاوری نژاد",
+        "amenity": "cafe",
+        "name": "چایخانه قصر (سوادا)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5202833121,
+      "lat": 35.717572,
+      "lon": 51.4265351,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه مروارید",
+        "name:en": "Morvarid Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242595022,
+      "lat": 35.699346,
+      "lon": 51.4020044,
+      "tags": {
+        "addr:street": "وحید نظری",
+        "amenity": "cafe",
+        "name": "قهوه خانه آپادانا"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5246828023,
+      "lat": 35.7233736,
+      "lon": 51.4292836,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه رام",
+        "name:en": "Cafe Raam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260311123,
+      "lat": 35.7230015,
+      "lon": 51.3289166,
+      "tags": {
+        "addr:street": "بلوار فردوس شرق",
+        "amenity": "cafe",
+        "name": "قهوه خانه خان بابا",
+        "name:en": "Khan baba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261847922,
+      "lat": 35.7054389,
+      "lon": 51.4061589,
+      "tags": {
+        "addr:street": "ولی عصر",
+        "amenity": "cafe",
+        "name": "کافه سارا",
+        "name:en": "Sara cafe",
+        "opening_hours": "Sa-Th 08:00-22:00; Fr 14:00-22:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5265655921,
+      "lat": 35.6997134,
+      "lon": 51.4027946,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه پیانو",
+        "name:en": "Piano Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5267840721,
+      "lat": 35.7230415,
+      "lon": 51.3225319,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "persian;tea;sandwich;pizza;pasta",
+        "internet_access": "wlan",
+        "name": "کافه کابوک",
+        "name:en": "kabok cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5277053122,
+      "lat": 35.7028505,
+      "lon": 51.3993383,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه نفس"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5295033521,
+      "lat": 35.7375964,
+      "lon": 51.4148893,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه شن",
+        "name:en": "Shen Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5301838726,
+      "lat": 35.722115,
+      "lon": 51.3324489,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه خانه خیام",
+        "name:en": "Khayyam Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5301838727,
+      "lat": 35.7222776,
+      "lon": 51.3315,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه لاتین",
+        "name:en": "Latin Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5352272722,
+      "lat": 35.738581,
+      "lon": 51.3136627,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه ویونا",
+        "name:en": "Viuna Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5352745221,
+      "lat": 35.70205,
+      "lon": 51.4124042,
+      "tags": {
+        "addr:housenumber": "2/1",
+        "addr:street": "البرز ۱",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "name": "کافه سه لت",
+        "name:en": "3lat café",
+        "opening_hours": "Sa-We 10:00-22:30; Th-Fr 08:00-22:30",
+        "phone": "+982166498510",
+        "website": "http://www.3latcafe.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5389743622,
+      "lat": 35.7141203,
+      "lon": 51.4217799,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه نام",
+        "name:en": "Name Café",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5475155721,
+      "lat": 35.6848768,
+      "lon": 51.4240565,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Fruit juice stand",
+        "name:ja": "フルーツジュース屋"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5486092287,
+      "lat": 35.7496905,
+      "lon": 51.3979617,
+      "tags": {
+        "amenity": "cafe",
+        "name": "وایس کافه",
+        "name:en": "Cafe Weiß"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5499264922,
+      "lat": 35.7499229,
+      "lon": 51.3980763,
+      "tags": {
+        "addr:street": "آقا علیخانی",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "والرین",
+        "name:en": "Valerian cafe’",
+        "name:fa": "کافه والرین"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5501173429,
+      "lat": 35.7378685,
+      "lon": 51.1731505,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه",
+        "name:en": "Botanical Museum's Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5507299486,
+      "lat": 35.7458632,
+      "lon": 51.3776235,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه رستوران آبشار"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5516363121,
+      "lat": 35.7214253,
+      "lon": 51.3941343,
+      "tags": {
+        "addr:street": "میدان فرشته",
+        "amenity": "cafe",
+        "name": "بودابار",
+        "name:en": "BUDABAR COFFEE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5573213623,
+      "lat": 35.7352346,
+      "lon": 51.3957274,
+      "tags": {
+        "amenity": "cafe",
+        "name": "afsane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5573578731,
+      "lat": 35.7021636,
+      "lon": 51.4028241,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه وی",
+        "name:en": "VCafe",
+        "opening_hours": "Sa-Th 08:30-23:00; Fr 10:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5585669821,
+      "lat": 35.701339,
+      "lon": 51.4351386,
+      "tags": {
+        "addr:street": "توانا",
+        "amenity": "cafe",
+        "name": "کافه کایوت",
+        "name:en": "Cafe coyote"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5587351221,
+      "lat": 35.712959,
+      "lon": 51.4184749,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه آپ آرت مان",
+        "name:en": "Up Art Maan Café",
+        "phone": "88866722"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5590747221,
+      "lat": 35.7064404,
+      "lon": 51.4258441,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5593962428,
+      "lat": 35.6978447,
+      "lon": 51.3785634,
+      "tags": {
+        "addr:street": "ارومیه",
+        "amenity": "cafe",
+        "name": "کافه دیوان",
+        "name:en": "Divan cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5620520022,
+      "lat": 35.718201,
+      "lon": 51.4229933,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه سلین",
+        "name:en": "Celine",
+        "opening_hours": "Mo-Su 09:30-23:30",
+        "phone": "02188824017",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5630143996,
+      "lat": 35.7081413,
+      "lon": 51.4156017,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "38",
+        "addr:postcode": "1598935611",
+        "addr:street": "نجات اللهی",
+        "addr:street_1": "صارمی",
+        "amenity": "cafe",
+        "email": "cafesaless@gmail.com",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Secafe",
+        "opening_hours": "Mo-Su 09:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+982188920387",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5643481022,
+      "lat": 35.7242679,
+      "lon": 51.4338173,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;sandwich;ice_cream;tea;grill;vegetarian",
+        "internet_access": "wlan",
+        "name": "کافه برد",
+        "name:en": "Cafe Board",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "phone": "+98 21 8886 7924",
+        "website": "http://cafeboard.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5649724121,
+      "lat": 35.7013735,
+      "lon": 51.4169034,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه آگر",
+        "name:en": "Cafe Agor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5702272023,
+      "lat": 35.7017922,
+      "lon": 51.3912829,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "کافه ایما",
+        "name:en": "ima cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5707270822,
+      "lat": 35.6251045,
+      "lon": 51.3945681,
+      "tags": {
+        "amenity": "cafe",
+        "name": "خانلو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5707375421,
+      "lat": 35.6191512,
+      "lon": 51.3982138,
+      "tags": {
+        "amenity": "cafe",
+        "name": "خانلو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5725640321,
+      "lat": 35.7461399,
+      "lon": 51.376136,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5801934093,
+      "lat": 35.7156312,
+      "lon": 51.4233112,
+      "tags": {
+        "amenity": "cafe",
+        "name": "رام بیسترو",
+        "name:en": "Rum Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5848131086,
+      "lat": 35.7392457,
+      "lon": 51.4956661,
+      "tags": {
+        "addr:street": "دکتر آیت",
+        "amenity": "cafe",
+        "name": "کافه عربی",
+        "phone": "+982177213269"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5860976485,
+      "lat": 35.6218616,
+      "lon": 51.3978308,
+      "tags": {
+        "amenity": "cafe",
+        "name": "خانلو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5864323585,
+      "lat": 35.7443663,
+      "lon": 51.3989761,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کیک استودیو سارا",
+        "name:en": "Sara Cake Studio",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5883010347,
+      "lat": 35.7338459,
+      "lon": 51.5290394,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5883010348,
+      "lat": 35.7305341,
+      "lon": 51.5270204,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:street": "بلوار حجر بن عدی بین ۱۵۶ و ۱۵۴ غربی جنب بانک سینا پلاک۸۲",
+        "amenity": "cafe",
+        "cuisine": "ice_cream;italian",
+        "internet_access": "no",
+        "name": "cafechimney_tehranpars",
+        "opening_hours": "Mo-Su 11:00-23:59",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5895610785,
+      "lat": 35.7747727,
+      "lon": 51.3169464,
+      "tags": {
+        "addr:street": "شعرا",
+        "amenity": "cafe",
+        "name": "کتابرانه",
+        "name:en": "Ketabrane",
+        "opening_hours": "Sa-Th 10:00-19:00",
+        "website": "http://www.ketabrane.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5904296724,
+      "lat": 35.7175549,
+      "lon": 51.3987532,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه خانه هشت بهشت"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5906928992,
+      "lat": 35.715764,
+      "lon": 51.412407,
+      "tags": {
+        "addr:street": "پزشک",
+        "amenity": "cafe",
+        "name": "کافه وصال",
+        "name:en": "Vesal Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5939631854,
+      "lat": 35.7053686,
+      "lon": 51.4195335,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5953408386,
+      "lat": 35.674139,
+      "lon": 51.4190478,
+      "tags": {
+        "amenity": "cafe",
+        "name": "قهوه قالی",
+        "name:en": "Rug Coffee",
+        "source:name": "map.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5954093786,
+      "lat": 35.6947089,
+      "lon": 51.4178009,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Khatoon Cafe Shisha Smoking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5974000985,
+      "lat": 35.7034319,
+      "lon": 51.4012572,
+      "tags": {
+        "addr:street": "بزرگمهر",
+        "amenity": "cafe",
+        "name": "کافه هارمونی",
+        "name:en": "Harmony Cafe",
+        "opening_hours": "Sa-Th 09:00-23:00; Fr 17:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5974027192,
+      "lat": 35.7034606,
+      "lon": 51.4008816,
+      "tags": {
+        "amenity": "cafe",
+        "name": "عباس کافه",
+        "name:en": "Abbas Cafe",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5976092423,
+      "lat": 35.6952019,
+      "lon": 51.4326609,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه روحی",
+        "name:en": "Rouhi cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5986596956,
+      "lat": 35.7362633,
+      "lon": 51.3819307,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه فلورانس"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6018501592,
+      "lat": 35.6899001,
+      "lon": 51.4283038,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه مسعودیه",
+        "name:en": "Massoudie Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6052879185,
+      "lat": 35.6995907,
+      "lon": 51.4195128,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Coffee Lemito - fresh roast coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6075140185,
+      "lat": 35.7474703,
+      "lon": 51.3340053,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کوبار",
+        "name:en": "koobar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6110411087,
+      "lat": 35.6940959,
+      "lon": 51.3779524,
+      "tags": {
+        "amenity": "cafe",
+        "name": "امین"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6113747387,
+      "lat": 35.7015356,
+      "lon": 51.4058424,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه عمارت روبه‌رو",
+        "name:en": "Rooberoo Mansion",
+        "opening_hours": "9:00-22:45",
+        "phone": "+98 21 6640 4230",
+        "website": "https://www.instagram.com/rooberoomansion/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6113747685,
+      "lat": 35.7131334,
+      "lon": 51.4191072,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه تایپ",
+        "name:en": "Type Café",
+        "opening_hours": "Mo-Sa 09:00-23:55; Su 17:00-23:50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6121081508,
+      "lat": 35.7771733,
+      "lon": 51.2878504,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه کلبه"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6142873682,
+      "lat": 35.7065559,
+      "lon": 51.3937296,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه تی آرت",
+        "name:en": "TeaArt Cafe",
+        "opening_hours": "8:00-23:00",
+        "smoking": "outside",
+        "website": "https://www.instagram.com/teaart.cafe/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6158960085,
+      "lat": 35.7345052,
+      "lon": 51.4194947,
+      "tags": {
+        "amenity": "cafe",
+        "name": "مریم جعفری"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6162639292,
+      "lat": 35.7295088,
+      "lon": 51.4999138,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6189925786,
+      "lat": 35.715155,
+      "lon": 51.4189351,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6218806787,
+      "lat": 35.7062414,
+      "lon": 51.44058,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ویتامین سرای سپاه"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6278434485,
+      "lat": 35.6642854,
+      "lon": 51.4058746,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Sandwich Shopoor",
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "phone": "+9855369617"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6281334085,
+      "lat": 35.7111972,
+      "lon": 51.4126135,
+      "tags": {
+        "addr:housenumber": "38",
+        "addr:street": "عضدی",
+        "amenity": "cafe",
+        "cuisine": "tea;coffee_shop;crepe;american;asian;breakfast;cake;chicken;greek;ice_cream;pasta",
+        "email": "cafe78@cafe78.com",
+        "internet_access": "wlan",
+        "name": "کافه ۷۸",
+        "name:en": "cafe.78",
+        "name:it": "bar 78",
+        "name:tr": "kafe 78",
+        "opening_hours": "Sa-Th 11:00-23:00; Fr 16:00-23:00",
+        "operator": "Rahimi saaed",
+        "phone": "9892188919862",
+        "website": "http://www.cafe78.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6284709290,
+      "lat": 35.7111871,
+      "lon": 51.4128487,
+      "tags": {
+        "amenity": "cafe",
+        "email": "cafe78@cafe78.com",
+        "internet_access": "wlan",
+        "name:en": "Cafe 78",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "88919862 3",
+        "website": "http://cafe78.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6295580285,
+      "lat": 35.6918835,
+      "lon": 51.476163,
+      "tags": {
+        "amenity": "cafe",
+        "name": "چایخانه خلیج فارس"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6300579385,
+      "lat": 35.7105904,
+      "lon": 51.4227009,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Hooner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6301845427,
+      "lat": 35.6980237,
+      "lon": 51.4057951,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "1",
+        "addr:postcode": "021",
+        "addr:street": "اتفاق",
+        "amenity": "cafe",
+        "capacity": "51",
+        "cuisine": "pizza;italian;burger;coffee_shop;sandwich;ice_cream;chicken;regional",
+        "delivery": "yes",
+        "name": "Cafe kaffa-کافه کافا",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6306150420,
+      "lat": 35.703434,
+      "lon": 51.405803,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "خیابان ولیعصر بالاتر از چهارراه ولیعصر روبروی خیابان بزرگمهر ساختمان افشار طبقه اول",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;قلیون",
+        "email": "Mahdi.sh1414@gmail.com",
+        "name": "کافه سفره خانه میکس",
+        "phone": "+982166466964",
+        "website": "https://instagram.com/cafe__mix__"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6310974228,
+      "lat": 35.7229503,
+      "lon": 51.4486366,
+      "tags": {
+        "addr:street": "انتهای خیابان مطهری، بعد از تقاطع خیابان شریعتی، باغ موزه قصر",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "کافه لقانطه",
+        "name:en": "Cafe Loghanteh",
+        "opening_hours": "Su-Fr 08:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "021-88442299",
+        "smoking": "outside",
+        "website": "https://www.instagram.com/cafe.loghanteh/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6312207686,
+      "lat": 35.6969032,
+      "lon": 51.4070679,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Hamraz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6312985385,
+      "lat": 35.7046664,
+      "lon": 51.4162589,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه گودو یاس",
+        "name:en": "Godo Yas",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6321282186,
+      "lat": 35.6970351,
+      "lon": 51.4071453,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Café Moel",
+        "phone": "66724394"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6331496887,
+      "lat": 35.6929223,
+      "lon": 51.4143475,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Cafe Rush"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6339857785,
+      "lat": 35.7198861,
+      "lon": 51.405065,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Русское кафе"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6346713985,
+      "lat": 35.7108545,
+      "lon": 51.406647,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ژیوار"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6348953085,
+      "lat": 35.7801235,
+      "lon": 51.3608335,
+      "tags": {
+        "addr:street": "آسمان چهارم شرقی",
+        "amenity": "cafe",
+        "name": "او ام",
+        "name:en": "OM Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6357055029,
+      "lat": 35.7654515,
+      "lon": 51.2877053,
+      "tags": {
+        "amenity": "cafe",
+        "name": "د ل پ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6357854959,
+      "lat": 35.7678347,
+      "lon": 51.2894014,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Coffee House",
+        "brand:wikidata": "Q11855430",
+        "brand:wikipedia": "fi:Coffee House",
+        "name": "Coffee House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6371789069,
+      "lat": 35.7813269,
+      "lon": 51.3350534,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه رستوران دیاکو",
+        "name:en": "Diaco Cafe Restaurant",
+        "opening_hours": "11:00-23:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6377319785,
+      "lat": 35.7369928,
+      "lon": 51.4327034,
+      "tags": {
+        "addr:housenumber": "46",
+        "addr:street": "محمدرضا عشقیار",
+        "amenity": "cafe",
+        "cuisine": "breakfast;cake;coffee_shop;crepe;diner;ice_cream;persian;sandwich;tea",
+        "email": "info@seen.coffee",
+        "internet_access": "wlan",
+        "name": "سین کافه",
+        "name:en": "Seen Café",
+        "opening_hours": "Mo-Su 07:00-23:55",
+        "phone": "+98 21 88757329",
+        "website": "https://seen.coffee/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6380320469,
+      "lat": 35.7102662,
+      "lon": 51.4158801,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه بلوز",
+        "name:en": "Blues Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6382301385,
+      "lat": 35.7213275,
+      "lon": 51.2994351,
+      "tags": {
+        "addr:street": "بیست و یکم شرقی",
+        "amenity": "cafe",
+        "name": "فکرکده غرب",
+        "name:en": "Fekr Kade"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6383264531,
+      "lat": 35.7023762,
+      "lon": 51.4023464,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه گیو",
+        "name:en": "Giv Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6390499012,
+      "lat": 35.7230175,
+      "lon": 51.4314698,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه کیمیا",
+        "name:en": "Kimiya Cafe",
+        "opening_hours": "10:00-23:30",
+        "phone": "+98 21 8831 5838"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6390523538,
+      "lat": 35.7014807,
+      "lon": 51.4116669,
+      "tags": {
+        "amenity": "cafe",
+        "name": "رد کافه",
+        "name:en": "Rad Cafe",
+        "opening_hours": "8:00-23:30",
+        "phone": "+98 21 6640 3414",
+        "website": "https://www.instagram.com/rad.cafe/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400942686,
+      "lat": 35.7013315,
+      "lon": 51.4044126,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه گودو",
+        "opening_hours": "Mo-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400968286,
+      "lat": 35.7017959,
+      "lon": 51.4041219,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه کتاب ٢٧",
+        "opening_hours": "Mo-Su 09:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6401938085,
+      "lat": 35.7028357,
+      "lon": 51.4212492,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "عباس موسوی",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "کافه حياط شماره ۶۵",
+        "name:en": "No. 65 Yard Cafe",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+98 21 8830 2842"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6415986485,
+      "lat": 35.6894671,
+      "lon": 51.4070449,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه کتاب دارالخلافه",
+        "name:en": "Daralkhelafe Cafe ketab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6416728129,
+      "lat": 35.7099275,
+      "lon": 51.3986376,
+      "tags": {
+        "amenity": "cafe",
+        "name": "بیتر سوییت",
+        "name:en": "Bittersweet",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6435356056,
+      "lat": 35.763698,
+      "lon": 51.293074,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه چارگوش"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6436364790,
+      "lat": 35.7212754,
+      "lon": 51.4335901,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:housenumber": "3",
+        "addr:street": "نوبخت",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "cafe paisa",
+        "outdoor_seating": "no",
+        "phone": "+982188867124"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6444249900,
+      "lat": 35.7317317,
+      "lon": 51.4925568,
+      "tags": {
+        "addr:street": "کمیجانی",
+        "amenity": "cafe",
+        "name": "علی کافه",
+        "phone": "021 7724 9604"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6445011685,
+      "lat": 35.7018824,
+      "lon": 51.4236612,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Whale café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6457274251,
+      "lat": 35.7021685,
+      "lon": 51.4410849,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:street": "خیابان انقلاب، نرسیده به پل چوبی، تقاطع خیابان انقلاب و نامجو شمال(گرگان)، مجتمع فرهنگی امام رضا(ع)",
+        "amenity": "cafe",
+        "capacity": "100",
+        "name": "کافه مهربان",
+        "outdoor_seating": "yes",
+        "phone": "۰۲۱-۷۷۶۳۹۷۶۶",
+        "source": "map.ir",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6482380968,
+      "lat": 35.7600349,
+      "lon": 51.3337055,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه شاتو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6486905782,
+      "lat": 35.7707923,
+      "lon": 51.3589374,
+      "tags": {
+        "addr:street": "بهار",
+        "amenity": "cafe",
+        "bar": "yes",
+        "capacity": "67",
+        "cuisine": "pizza;burger;penini;coffee_shop;hookah",
+        "internet_access": "wlan",
+        "name": "Minus1cafe",
+        "name:fa": "کافه رستوران ماینس وان",
+        "opening_hours": "Mo-Su 09:00-23:59",
+        "outdoor_seating": "yes",
+        "phone": "+982122113008",
+        "smoking": "yes",
+        "website": "https://www.instagram.com/minus1cafe/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6488098497,
+      "lat": 35.7406344,
+      "lon": 51.4099324,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه و رستوران رومئو"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6527838585,
+      "lat": 35.7259307,
+      "lon": 51.3070758,
+      "tags": {
+        "addr:street": "بین ورزی و پروانه جنوبی ساختمان کارون طبقه همکف پلاک۴۴۶",
+        "amenity": "cafe",
+        "name": "کافه رستوران سالمبا",
+        "name:en": "Restaurant&coffe salemba",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "44145353--55"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6536785586,
+      "lat": 35.7248221,
+      "lon": 51.403988,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Melli Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6587440448,
+      "lat": 35.7010138,
+      "lon": 51.4195158,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:street": "گل پرور",
+        "amenity": "cafe",
+        "comment": "قلیان سرا",
+        "cuisine": "persian",
+        "internet_access": "no",
+        "name": "قهوه خانه فردوسی",
+        "outdoor_seating": "no",
+        "smoking": "yes",
+        "window": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6592797431,
+      "lat": 35.7415495,
+      "lon": 51.5911003,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "131",
+        "addr:street": "بلوار بهار",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "کافه عربی هشتگ",
+        "phone": "09126108387"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6616729369,
+      "lat": 35.75056,
+      "lon": 51.3984193,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه راندوو",
+        "name:en": "Rendezvous Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6634447991,
+      "lat": 35.7213455,
+      "lon": 51.4089605,
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Pineapple juice bar",
+        "name:ja": "パイナップル ジュース バー"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6634667090,
+      "lat": 35.7127153,
+      "lon": 51.4030436,
+      "tags": {
+        "addr:city": "تهران",
+        "amenity": "cafe",
+        "name": "کافه کُنج"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6680532512,
+      "lat": 35.7051262,
+      "lon": 51.3960986,
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "قدس",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "cuisine": "pizza;coffee_shop;burger;kebab;ice_cream",
+        "delivery": "no",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "بوفه‌ی آقا قادر",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6778038186,
+      "lat": 35.7097778,
+      "lon": 51.4180873,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافه کاغذ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6825407885,
+      "lat": 35.7033962,
+      "lon": 51.4132988,
+      "tags": {
+        "amenity": "cafe",
+        "name": "بيرشيان"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832336078,
+      "lat": 35.728515,
+      "lon": 51.4395827,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "42",
+        "addr:street": "میرزایی زینالی",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;pizza;ice_cream;turkish;fish_and_chips;burger;kebab;international",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "کافی شاپ هتل پرشین پلازا",
+        "name:en": "persian plaza coffee shop",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6882132585,
+      "lat": 35.680001,
+      "lon": 51.4116717,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Cedar Café",
+        "opening_hours": "Mo-Su 11:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6916635985,
+      "lat": 35.7118786,
+      "lon": 51.4036276,
+      "tags": {
+        "amenity": "cafe",
+        "name": "روز کافه",
+        "opening_hours": "Sa-Th 11:00-23:30; Fr 13:00-23:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6931006912,
+      "lat": 35.72382,
+      "lon": 51.4050064,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "32",
+        "addr:postcode": "1431773786",
+        "addr:street": "فتحی شقاقی",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "هتریک کافه",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6932421985,
+      "lat": 35.703524,
+      "lon": 51.3915814,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Tehran, دانشگاه تهران،",
+        "name:en": "Baccara Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6933252346,
+      "lat": 35.6612946,
+      "lon": 51.3459828,
+      "tags": {
+        "amenity": "cafe",
+        "name": "کافی شاپ کاسیت",
+        "name:en": "Kasit Coffee Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6958060258,
+      "lat": 35.7015485,
+      "lon": 51.4003836,
+      "tags": {
+        "addr:street": "وصال شیرازی",
+        "amenity": "cafe",
+        "cuisine": "chicken;diner;italian;sandwich;vegan;coffee_shop;ice_cream;tea;burger;cake;turkish;pasta;vegetarian;breakfast;grill",
+        "internet_access": "wlan",
+        "name": "نفس",
+        "name:en": "Nafas",
+        "opening_hours": "Mo-Su 08:00-23:30",
+        "phone": "00982166978043",
+        "website": "http://www.foodiha.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6971074786,
+      "lat": 35.7019393,
+      "lon": 51.4197594,
+      "tags": {
+        "addr:city": "تهران",
+        "addr:street": "میدان فردوسی - ظلع شمال شرقی - پاساژ ده",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "قهوه مارکو",
+        "opening_hours": "Mo-Su,PH 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7001855685,
+      "lat": 35.7041473,
+      "lon": 51.4132508,
+      "tags": {
+        "addr:housenumber": "21",
+        "amenity": "cafe",
+        "name": "خانه ١٣٠٧",
+        "name:en": "1307 House",
+        "opening_hours": "9:00-22:30",
+        "phone": "+98 21 8880 7434",
+        "website": "https://www.instagram.com/khane1307/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7004867326,
+      "lat": 35.7050524,
+      "lon": 51.4157872,
+      "tags": {
+        "addr:housenumber": "254",
+        "amenity": "cafe",
+        "name": "کافه دَمَن",
+        "name:en": "Cafe Daman",
+        "opening_hours": "8:00-23:30",
+        "phone": "+98 937 4444 927",
+        "website": "https://www.instagram.com/cafe_daman/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045280724,
+      "lat": 35.6942754,
+      "lon": 51.3789724,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "The Coffee Club",
+        "brand:wikidata": "Q7726599",
+        "brand:wikipedia": "en:The Coffee Club",
+        "cuisine": "coffee_shop",
+        "name": "The Coffee Club",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045401813,
+      "lat": 35.7005441,
+      "lon": 51.3905732,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Mira cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045403006,
+      "lat": 35.7021259,
+      "lon": 51.3907764,
+      "tags": {
+        "amenity": "cafe",
+        "name": "lamiz coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045433423,
+      "lat": 35.700464,
+      "lon": 51.3978413,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Board Game Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233394791,
+      "nodes": [
+        2417886722,
+        2417886723,
+        4509295913,
+        4509295912,
+        2417886729,
+        2417886722
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "کافه پارک",
+        "name:en": "Cafe Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281565614,
+      "nodes": [
+        2855381202,
+        2855381203,
+        2855381204,
+        4948728936,
+        4949260867,
+        2855381205,
+        2855381206,
+        2855381202
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "بوفه پردیس هنرهای زیبا"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490395218,
+      "nodes": [
+        4825811917,
+        4825811918,
+        4825811919,
+        4825811920,
+        4825811917
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625146064,
+      "nodes": [
+        5902571452,
+        5902571453,
+        5902571454,
+        5902571455,
+        5902571452
+      ],
+      "tags": {
+        "addr:city": "تهران",
+        "addr:housenumber": "11",
+        "addr:postcode": "1591636589",
+        "addr:street": "سعید",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "internet_access:ssid": "TheCafe",
+        "name": "The Cafe | د کافه",
+        "opening_hours": "08:00-23:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 650067572,
+      "nodes": [
+        6099625338,
+        6099625339,
+        6099625340,
+        6099625341,
+        6099625342,
+        6099625338
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "خانه فرهنگ دیسفان (کافه دیسفان)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669584702,
+      "nodes": [
+        6270345702,
+        6270345703,
+        6270345704,
+        6270345705,
+        6270345706,
+        6270345702
+      ],
+      "tags": {
+        "addr:city": "Tehran",
+        "addr:street": "هفده شهریور",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "قهوه خانه دیاکو",
+        "name:en": "Diako Hookah Bar",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4825811917,
+      "lat": 35.6587885,
+      "lon": 51.4727057
+    },
+    {
+      "type": "node",
+      "id": 4825811918,
+      "lat": 35.6590204,
+      "lon": 51.4727473
+    },
+    {
+      "type": "node",
+      "id": 4825811919,
+      "lat": 35.6589886,
+      "lon": 51.4729644
+    },
+    {
+      "type": "node",
+      "id": 4825811920,
+      "lat": 35.6587561,
+      "lon": 51.4729095
+    },
+    {
+      "type": "node",
+      "id": 6099625338,
+      "lat": 35.7027876,
+      "lon": 51.3875199
+    },
+    {
+      "type": "node",
+      "id": 6099625339,
+      "lat": 35.7028185,
+      "lon": 51.3876561
+    },
+    {
+      "type": "node",
+      "id": 6099625340,
+      "lat": 35.7026835,
+      "lon": 51.3877179
+    },
+    {
+      "type": "node",
+      "id": 6099625341,
+      "lat": 35.7026758,
+      "lon": 51.3875547
+    },
+    {
+      "type": "node",
+      "id": 6099625342,
+      "lat": 35.7027272,
+      "lon": 51.3875405
+    },
+    {
+      "type": "node",
+      "id": 2855381202,
+      "lat": 35.7028216,
+      "lon": 51.397362
+    },
+    {
+      "type": "node",
+      "id": 2855381203,
+      "lat": 35.7026707,
+      "lon": 51.3974218
+    },
+    {
+      "type": "node",
+      "id": 2855381204,
+      "lat": 35.7026334,
+      "lon": 51.397291
+    },
+    {
+      "type": "node",
+      "id": 2855381205,
+      "lat": 35.7027823,
+      "lon": 51.3972268
+    },
+    {
+      "type": "node",
+      "id": 2855381206,
+      "lat": 35.7027975,
+      "lon": 51.3972788
+    },
+    {
+      "type": "node",
+      "id": 4948728936,
+      "lat": 35.7027636,
+      "lon": 51.3972348
+    },
+    {
+      "type": "node",
+      "id": 4949260867,
+      "lat": 35.7027714,
+      "lon": 51.3972315
+    },
+    {
+      "type": "node",
+      "id": 5902571452,
+      "lat": 35.7021901,
+      "lon": 51.4086653
+    },
+    {
+      "type": "node",
+      "id": 5902571453,
+      "lat": 35.7021882,
+      "lon": 51.4086491
+    },
+    {
+      "type": "node",
+      "id": 5902571454,
+      "lat": 35.7022535,
+      "lon": 51.4086389
+    },
+    {
+      "type": "node",
+      "id": 5902571455,
+      "lat": 35.7022568,
+      "lon": 51.4087358
+    },
+    {
+      "type": "node",
+      "id": 6270345702,
+      "lat": 35.686466,
+      "lon": 51.4472433
+    },
+    {
+      "type": "node",
+      "id": 6270345703,
+      "lat": 35.686466,
+      "lon": 51.44728
+    },
+    {
+      "type": "node",
+      "id": 6270345704,
+      "lat": 35.686407,
+      "lon": 51.4472805
+    },
+    {
+      "type": "node",
+      "id": 6270345705,
+      "lat": 35.6864079,
+      "lon": 51.4472382
+    },
+    {
+      "type": "node",
+      "id": 6270345706,
+      "lat": 35.6864358,
+      "lon": 51.4472411
+    },
+    {
+      "type": "node",
+      "id": 2417886722,
+      "lat": 35.7382625,
+      "lon": 51.4453649
+    },
+    {
+      "type": "node",
+      "id": 2417886723,
+      "lat": 35.7382082,
+      "lon": 51.4453592
+    },
+    {
+      "type": "node",
+      "id": 2417886729,
+      "lat": 35.7382626,
+      "lon": 51.4452382
+    },
+    {
+      "type": "node",
+      "id": 4509295912,
+      "lat": 35.738317,
+      "lon": 51.4450593
+    },
+    {
+      "type": "node",
+      "id": 4509295913,
+      "lat": 35.7381268,
+      "lon": 51.445016
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="utf-8">
+<script src="/static/js/jquery-2.2.4.min.js"></script>
+    <title>Nearby Shops</title>
+
+</head>
+
+
+
+<body>
+
+<form  method="post" id="post_form">
+  {% csrf_token  %}
+  <label for="latitude" > Latitiude:</label>
+  <input id="latitude" type="text" name="latitude"> 
+  <label for="longtitude" > Longtitude:</label>
+  <input id="longtitude" type="text" name="Longtitude">
+  
+  <input type="submit" value="order" >
+</form>
+
+    <h1>Nearby Shops</h1>
+
+    {% if shops %}
+
+    <ul>
+
+        {% for shop in shops %}
+
+        <li>
+
+            {{ shop.name }} : {{shop.distance}} 
+
+        </li>
+
+        {% endfor %}
+
+    </ul>
+
+    {% endif %}
+
+</body>
+
+<script>
+$('#post-form').on('click', '#post-form',function(e){
+    $.ajax({
+        type:'POST',
+        url:'{% url "create" %}',
+        data:{
+            title:$('#title').val(),
+            description:$('#description').val(),
+            csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val(),
+            action: 'post'
+        },
+        success:function(json){
+            alert();
+            document.getElementById("post-form").reset();
+            $(".posts").prepend('<div class="col-md-6">'+
+                '<div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">' +
+                    '<div class="col p-4 d-flex flex-column position-static">' +
+                        '<h3 class="mb-0">' + json.title + '</h3>' +
+                        '<p class="mb-auto">' + json.description + '</p>' +
+                    '</div>' +
+                '</div>' +
+            '</div>' 
+            )
+        },
+        error : function(xhr,errmsg,err) {
+        console.log(xhr.status + ": " + xhr.responseText); // provide a bit more info about the error to the console
+    }
+    });
+});
+</script>
+
+</html>
